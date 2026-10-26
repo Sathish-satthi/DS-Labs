@@ -1,0 +1,3 @@
+This is an example of unstructured data.
+It contains plain text without any predefined tabular format.
+Data Science often involves analyzing this kind of text data using NLP techniques.

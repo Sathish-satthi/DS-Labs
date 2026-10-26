@@ -1,0 +1,16 @@
+EmployeeID,Department,ExperienceYears,Salary
+1,IT,5,60000
+2,IT,3,55000
+3,IT,5,62000
+4,HR,2,45000
+5,HR,5,55000
+6,Finance,10,80000
+7,Finance,8,75000
+8,IT,5,60000
+9,Finance,5,65000
+10,IT,2,50000
+11,HR,1,40000
+12,Finance,12,90000
+13,IT,7,68000
+14,HR,3,48000
+15,Finance,5,60000

@@ -1,0 +1,12 @@
+[
+  {
+    "ID": 1,
+    "Name": "Alice",
+    "Details": {"Age": 24, "Salary": 50000}
+  },
+  {
+    "ID": 2,
+    "Name": "Bob",
+    "Details": {"Age": 27, "Salary": 60000}
+  }
+]
